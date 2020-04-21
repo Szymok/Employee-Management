@@ -1,0 +1,64 @@
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.deps.json
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.runtimeconfig.json
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.runtimeconfig.dev.json
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.dll
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.pdb
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.csprojAssemblyReference.cache
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.RazorAssemblyInfo.cache
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.RazorAssemblyInfo.cs
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.AssemblyInfo.cs
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.RazorTargetAssemblyInfo.cache
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.dll
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.pdb
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.Views.dll
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.Views.pdb
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.TagHelpers.input.cache
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.TagHelpers.output.cache
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.RazorCoreGenerate.cache
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.RazorTargetAssemblyInfo.cs
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.Views.pdb
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.csproj.CopyComplete
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\_ViewStart.cshtml.g.cs
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\szymo\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.dll
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.pdb
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.deps.json
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.runtimeconfig.json
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.runtimeconfig.dev.json
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.dll
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.pdb
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.Views.dll
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.Views.pdb
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.csprojAssemblyReference.cache
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.RazorAssemblyInfo.cache
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.RazorAssemblyInfo.cs
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.AssemblyInfo.cs
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.TagHelpers.input.cache
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.TagHelpers.output.cache
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.RazorCoreGenerate.cache
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\_ViewStart.cshtml.g.cs
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.RazorTargetAssemblyInfo.cache
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.RazorTargetAssemblyInfo.cs
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.Views.pdb
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.genruntimeconfig.cache
+C:\Users\Szymon\Documents\Visual Studio 2019\Projekty\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.csproj.CopyComplete

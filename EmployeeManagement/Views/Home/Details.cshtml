@@ -1,0 +1,32 @@
+﻿@model HomeDetailsViewModel
+
+@{
+    ViewBag.Title = "Song Details";
+}
+<div class="row justify-content-center m-3">
+    <div class="col-sm-8">
+        <div class="card">
+            <div class="card-header">
+                <h1>@Model.PageTitle</h1>
+            </div>
+
+            <div class="card-body text-center">
+                <img class="card-img-top" src="~/images/play.png" asp-append-version="true" />
+
+                <h4>Employee ID : @Model.Employee.Id</h4>
+                <h4>Employee Name : @Model.Employee.Name</h4>
+                <h4>Employee Department : @Model.Employee.Department</h4>
+                <h4>Employee Name : @Model.Employee.Email</h4>
+            </div>
+            <div class="card-footer text-center">
+                <a href="#" class="btn btn-primary">Edit</a>
+                <a asp-controller="home" asp-action="index" class="btn btn-primary">Back</a>
+                <a href="#" class="btn btn-primary">Delete</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/CustomScript.js"></script>
+}
